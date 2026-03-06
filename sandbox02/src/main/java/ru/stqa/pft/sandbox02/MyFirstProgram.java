@@ -1,3 +1,5 @@
+package ru.stqa.pft.sandbox02;
+
 public class MyFirstProgram {
 
 	public static void main(String[] args) {
